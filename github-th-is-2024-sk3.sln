@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IS-Projekty", "IS-Projekty", "{26B4389C-8EC8-4604-BF82-5191E7681C1E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "program001-vypis-rady", "IS-Projekty\program001-vypis-rady\program001-vypis-rady.csproj", "{04CFC0E6-2DA9-4DC1-92DF-3AB0F7004DEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04CFC0E6-2DA9-4DC1-92DF-3AB0F7004DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CFC0E6-2DA9-4DC1-92DF-3AB0F7004DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CFC0E6-2DA9-4DC1-92DF-3AB0F7004DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CFC0E6-2DA9-4DC1-92DF-3AB0F7004DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04CFC0E6-2DA9-4DC1-92DF-3AB0F7004DEB} = {26B4389C-8EC8-4604-BF82-5191E7681C1E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD054743-1623-449D-BA62-2E7EFD5706AA}
+	EndGlobalSection
+EndGlobal
