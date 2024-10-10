@@ -44,7 +44,11 @@ class Program {
             Console.WriteLine("První číslo: {0}; poslední číslo: {1};",first,last);
 
             //logika pro vypis rady
-            
+            int current = first;
+            while(current <= last){
+                Console.WriteLine(current);
+                current = current + step;
+            }
 
 
 
