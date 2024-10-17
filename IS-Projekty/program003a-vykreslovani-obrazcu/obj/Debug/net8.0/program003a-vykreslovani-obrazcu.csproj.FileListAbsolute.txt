@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\bin\Debug\net8.0\program003a-vykreslovani-obrazcu.exe
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\bin\Debug\net8.0\program003a-vykreslovani-obrazcu.deps.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\bin\Debug\net8.0\program003a-vykreslovani-obrazcu.runtimeconfig.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\bin\Debug\net8.0\program003a-vykreslovani-obrazcu.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\bin\Debug\net8.0\program003a-vykreslovani-obrazcu.pdb
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.AssemblyInfo.cs
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.sourcelink.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\refint\program003a-vykreslovani-obrazcu.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.pdb
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\program003a-vykreslovani-obrazcu.genruntimeconfig.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program003a-vykreslovani-obrazcu\obj\Debug\net8.0\ref\program003a-vykreslovani-obrazcu.dll
