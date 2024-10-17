@@ -48,7 +48,7 @@
             for(int k = 1;k<=heigthwidth;k++){
                 for(int l = 2;l<=k;l++){
 
-                    Console.Write("*");
+                    Console.Write("* ");
                 }
                 Console.WriteLine("*");
                 
