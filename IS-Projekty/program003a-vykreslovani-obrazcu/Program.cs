@@ -29,7 +29,6 @@
             Console.WriteLine("Výška: {0}", heigth);
             Console.WriteLine("===========================================================");
 
-
             
             for(int i = 1;i<=heigth;i++){
                 for(int j = 1;j<=width;j++){
