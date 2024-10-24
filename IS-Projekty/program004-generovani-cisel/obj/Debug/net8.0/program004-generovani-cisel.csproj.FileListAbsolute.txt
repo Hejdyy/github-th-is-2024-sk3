@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\bin\Debug\net8.0\program004-generovani-cisel.exe
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\bin\Debug\net8.0\program004-generovani-cisel.deps.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\bin\Debug\net8.0\program004-generovani-cisel.runtimeconfig.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\bin\Debug\net8.0\program004-generovani-cisel.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\bin\Debug\net8.0\program004-generovani-cisel.pdb
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.AssemblyInfo.cs
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.sourcelink.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\refint\program004-generovani-cisel.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.pdb
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\program004-generovani-cisel.genruntimeconfig.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program004-generovani-cisel\obj\Debug\net8.0\ref\program004-generovani-cisel.dll
