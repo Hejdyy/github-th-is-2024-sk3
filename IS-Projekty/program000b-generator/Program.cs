@@ -35,7 +35,7 @@ string again  = "a";
             Console.WriteLine();
             Console.WriteLine("===========================================================");
             Console.WriteLine("Zadané hodnoty: ");
-            Console.WriteLine("Počet generovaných čísel: {0}; Dolní mez: {1}; Horní mez: {2}", n, dm, hm);
+            Console.WriteLine("Počet generovaných čísel: {0}; Dolní mez{1}; Horní mez{2}", n, dm, hm);
             Console.WriteLine("===========================================================\n\n");
 
 
@@ -45,48 +45,13 @@ string again  = "a";
             //příprava pro generátor náhodných čísel
             Random randomnumber = new Random();
 
-        
-            int positive = 0;
-            int negative = 0;
-            int nuly = 0;
-
-            int suda = 0;  
-            int licha = 0;
-
+            
             for(int i=0;i<n;i++){
                 
                 myArray[i] = randomnumber.Next(dm,hm+1);
                 Console.Write("{0}; ",myArray[i]);
-
-
-                if(myArray[i] > 0){
-                    positive++;
-                }
-                else if(myArray[i] < 0)
-                {
-                    negative++;
-                }
-                else if(myArray[i] == 0)
-                {
-                    nuly++;
-                }
-
-                if(myArray[i] % 2 == 0 ){
-                    suda++;
-                }
-                licha++;
-
                 
             }
-
-                Console.WriteLine("\npocet kladnych: {0} ",positive);
-                Console.WriteLine("pocet zapornych: {0} ",negative);
-                Console.WriteLine("pocet nul: {0} ",nuly);
-                Console.WriteLine("\npocet sudych: {0} ",suda);
-                Console.WriteLine("pocet lichych: {0} ",licha);
-
-
-
 
 
 

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program004-generovani-cisel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6fda1752218f541862185d9a9eff2b6395d4f92")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2857faed464be1da4ee60a84a171055f2bc86342")]
 [assembly: System.Reflection.AssemblyProductAttribute("program004-generovani-cisel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program004-generovani-cisel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
