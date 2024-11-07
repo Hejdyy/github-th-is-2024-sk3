@@ -52,10 +52,39 @@
                 }
                 Console.WriteLine("*");
                 
-            }           
+            }  
+            Console.WriteLine("===========================================================");
+            //ukol 6.11 3 obrazce //prvni
+            for(int k = 1;k<=heigthwidth;k++){
+                for(int l = 2;l<=k;l++){
 
+                    Console.Write("* ");
+                }
+                Console.WriteLine("*");
+                
+            }
 
+           /* Console.WriteLine("===========================================================");
+            //druhy 
+            for(int k = 1;k<=heigthwidth;k++){
+                for(int l = 2;l<=k;l++){
 
+                    Console.Write("* ");
+                }
+                Console.WriteLine("*");
+                
+            }
+
+            Console.WriteLine("===========================================================");
+            //treti 
+            for(int k = 1;k<=heigthwidth;k++){
+                for(int l = 2;l<=k;l++){
+
+                    Console.Write("* ");
+                }
+                Console.WriteLine("*");
+                
+            } */
 
 
             Console.WriteLine();
