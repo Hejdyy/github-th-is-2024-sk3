@@ -10,7 +10,7 @@
             Console.WriteLine();
             Console.WriteLine();
  
-            Console.Write("\n\nZadejte text pro Analýz:");
+            Console.Write("\n\nZadejte text pro Analýzu:");
             string mujText = Console.ReadLine();
 
 
