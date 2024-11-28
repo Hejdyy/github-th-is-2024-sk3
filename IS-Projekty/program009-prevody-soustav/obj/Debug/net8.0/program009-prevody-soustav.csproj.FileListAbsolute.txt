@@ -1,0 +1,15 @@
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.GeneratedMSBuildEditorConfig.editorconfig
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.AssemblyInfoInputs.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.AssemblyInfo.cs
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.csproj.CoreCompileInputs.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.sourcelink.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\bin\Debug\net8.0\program009-prevody-soustav.exe
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\bin\Debug\net8.0\program009-prevody-soustav.deps.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\bin\Debug\net8.0\program009-prevody-soustav.runtimeconfig.json
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\bin\Debug\net8.0\program009-prevody-soustav.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\bin\Debug\net8.0\program009-prevody-soustav.pdb
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\refint\program009-prevody-soustav.dll
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.pdb
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\program009-prevody-soustav.genruntimeconfig.cache
+C:\aaa\IS-2024\github-th-is-2024-sk3\IS-Projekty\program009-prevody-soustav\obj\Debug\net8.0\ref\program009-prevody-soustav.dll
